@@ -1,4 +1,4 @@
-# Bilgilendir Evi
+# Dokun Gönder
 
 Windows ve macOS için indirilebilir kurulum dosyaları [Releases](https://github.com/dokungonder/bilgi/releases) sayfasındadır.
 
